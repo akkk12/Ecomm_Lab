@@ -204,10 +204,9 @@
 }
 
 .topnav a {
-  float: left;
   color: #f2f2f2;
-  text-align: center;
   padding: 14px 16px;
+  margin-left: 150px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -219,7 +218,6 @@
 
 
 .topnav a.active {
-  background-color: black;
   color: white;
 }
 
@@ -227,7 +225,7 @@
 .topnav-centered a {
   float: none;
   position: absolute;
-  top: 50%;
+  top: 500%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
