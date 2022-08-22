@@ -179,3 +179,21 @@
     margin-right: 16px;
     
 }
+
+.row {
+  display: flex;
+}
+
+.picture1 {
+  flex: 33.33%;
+  padding: 5px;
+}
+.picture2 {
+  flex: 33.33%;
+  padding: 5px;
+}
+.picture3 {
+  flex: 33.33%;
+  padding: 5px;
+}
+
