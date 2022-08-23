@@ -73,7 +73,7 @@
     display: block;
     margin-left: 40%;
     margin-right: auto;
-    width: 19%;
+    width: 13%;
 }
 
 
@@ -230,4 +230,18 @@
   top: 500%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+.animate__fadeIn{
+  text-align: center;
+      font-family: 'Bellota Text';
+      padding-right: 5%;
+
+}
+.images{
+  width:80%;
+  height : 300px ; 
+}
+
+#fb{
+  padding-left: 12%;
 }
